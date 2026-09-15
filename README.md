@@ -47,5 +47,3 @@ Y espero que cada vez que abras esta app puedas sentir todo el cariño con el qu
 ---
 
 
-
-Si ya tenías instalada la app, desinstálala y vuelve a ejecutarla para que se actualice el ícono.
