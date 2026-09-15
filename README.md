@@ -1,38 +1,51 @@
-# Léeme cuando estés...
+# 💌 Léeme cuando estés...
 
-App en Flutter con un menú de emociones. Al tocar una emoción, se abre la carta correspondiente.
+Una pequeña app hecha especialmente para ti, con mucho cariño y un pedacito de mí en cada carta. 🤍
 
-## Cómo correrla
+Aquí encontrarás diferentes cartas para distintos momentos: cuando estés feliz, triste, aburrido, necesites un abrazo, quieras distraerte o simplemente tengas ganas de recordar cuánto te amo.
 
-1. Descomprime el archivo.
-2. Abre una terminal dentro de la carpeta `leeme_cuando_estes`.
-3. Ejecuta:
-   ```
-   flutter pub get
-   flutter run
-   ```
+Solo elige cómo te sientes y deja que una de mis cartas te acompañe. 💗
 
-## Estructura
+No importa dónde estemos ni la hora que sea, siempre habrá un pequeño pedacito de mí aquí para ti.
 
-- `lib/main.dart` — punto de entrada de la app.
-- `lib/models/letter_model.dart` — modelo `Letter` (emoción, título, texto, color, ícono).
-- `lib/data/letters_data.dart` — aquí están las 10 cartas con su texto completo. Puedes editar, agregar o quitar cartas desde este archivo.
-- `lib/screens/home_screen.dart` — pantalla de inicio con el menú.
-- `lib/screens/letter_screen.dart` — pantalla que muestra la carta seleccionada.
+---
 
-## Cómo agregar una nueva carta
+## 🌷 Un pequeño rincón para ti
 
-Solo agrega un nuevo `Letter(...)` a la lista en `letters_data.dart`, con su `emotion`, `title`, `body`, `color` e `icon`. Aparecerá automáticamente en el menú, no hace falta tocar nada más.
+Esta app nació pensando en ti. No pretende ser algo enorme ni perfecto, simplemente quería crear algo que pudieras guardar y abrir cada vez que necesitaras sentirme un poquito más cerca.
 
-## Cambiar el ícono de la app
+Cada carta fue escrita pensando en momentos diferentes, porque sé que no todos los días nos sentimos igual.
 
-Ya está configurado el paquete `flutter_launcher_icons` con el ícono nuevo en `assets/icon/icon.png`.
+Así que cuando no sepas qué hacer, cuando tengas un día increíble o simplemente quieras leer algo bonito...
 
-Para generarlo en Android e iOS, corre en la carpeta del proyecto:
+**Ven aquí y elige una carta.** 🤍
 
-```
-flutter pub get
-dart run flutter_launcher_icons
-```
+---
 
-Después de eso, desinstala la app del emulador/celular (si ya la tenías instalada) y vuelve a darle Run, para que tome el ícono nuevo.
+## 💌 Dentro de la app encontrarás...
+
+* 🌸 Cartas para cuando estés feliz.
+* 🌧️ Cartas para cuando estés triste.
+* 🥱 Cartas para cuando estés aburrido.
+* 🤍 Cartas para cuando necesites cariño.
+* 🫂 Cartas para cuando necesites sentir un abrazo.
+* ✨ Y algunas sorpresitas más.
+
+Cada carta está hecha especialmente para ti.
+
+---
+
+## 🌙 Un último detalle...
+
+Si alguna vez estamos lejos, recuerda que la distancia no significa que estés solo.
+
+Quizá no pueda estar físicamente contigo en ese momento, pero puedes abrir esta app y encontrar unas palabras mías esperándote.
+
+**Te amo muchísimo.**
+Y espero que cada vez que abras esta app puedas sentir todo el cariño con el que la hice para ti. 🤍
+
+---
+
+
+
+Si ya tenías instalada la app, desinstálala y vuelve a ejecutarla para que se actualice el ícono.
